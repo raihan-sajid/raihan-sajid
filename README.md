@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raihan-sajid
-- 👀 I’m interested in Full Stack Development.
+- 👀 I’m interested in Data Visualisation/App Development/Full Stack.
 - 🌱 I’m currently learning REST APIs. 
 - 👨🏾‍💻 I'm uploading to GitHub as I learn and complete projects! 
 - 📫 How to reach me --> raihan-s@hotmail.com 
